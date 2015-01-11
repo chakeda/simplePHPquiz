@@ -1,0 +1,12 @@
+[21-Dec-2014 20:43:26 UTC] PHP Fatal error:  Call to undefined function get_username_via_email() in /home/slc1/public_html/includes/process_login.php on line 18
+[21-Dec-2014 20:44:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 11
+[21-Dec-2014 20:45:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 12
+[21-Dec-2014 20:45:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 12
+[21-Dec-2014 20:46:21 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 12
+[21-Dec-2014 20:46:39 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 12
+[21-Dec-2014 21:00:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 12
+[21-Dec-2014 21:01:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/slc1/public_html/includes/functions.php on line 12
+[21-Dec-2014 21:02:02 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/slc1/public_html/includes/functions.php on line 13
+[22-Dec-2014 16:59:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/slc1/public_html/includes/functions.php on line 10
+[22-Dec-2014 17:00:31 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/slc1/public_html/includes/functions.php on line 11
+[22-Dec-2014 17:00:33 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/slc1/public_html/includes/functions.php on line 11

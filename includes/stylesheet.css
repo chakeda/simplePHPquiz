@@ -1,0 +1,99 @@
+/*
+	EDITED BY KITE CHRISTIANSON 12/17/2014 for use with studentleadershipcompetencies.com.
+            Still has a bunch of unneeded styles from UofA website
+
+*/
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+body {
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+
+p {
+    line-height: 170%;
+    margin-bottom: 15px;
+    text-align: center;
+
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-bottom: 10px; 
+}
+
+/*
+input {
+    margin-bottom: 7px; 
+}
+*/
+
+a {
+    color: #4461AF;
+    text-decoration: underline;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+	
+/* Content
+   ----------------------------------------------------*/
+
+#wrap{
+    width:100%;
+    margin:0 auto;
+}
+
+.box{
+    float:left;
+    width:50%;
+    margin:0 auto;
+}
+
+.singlebox{
+    width:70%;
+    margin:0 auto;
+}
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align: center;
+}
+
+#admincontent{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    align: center;   
+    
+}
+
+p.leftjustify{
+    text-align: left;
+    
+}
+
+table,th, td {
+    border: 1px solid gray;
+}
